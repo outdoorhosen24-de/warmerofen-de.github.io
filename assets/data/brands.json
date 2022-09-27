@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,11 +7,123 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "firefix",
+        "name": "Firefix",
+        "slug": "firefix",
+        "productCategory": "Firefix",
+        "localThumb": "/assets/images/hersteller/firefix.webp"
+    },
+    {
+        "key": "rowi",
+        "name": "Rowi",
+        "slug": "rowi",
+        "productCategory": "Rowi",
+        "localThumb": "/assets/images/hersteller/rowi.webp"
+    },
+    {
+        "key": "varde",
+        "name": "Varde",
+        "slug": "varde",
+        "productCategory": "Varde",
+        "localThumb": "/assets/images/hersteller/varde.webp"
+    },
+    {
+        "key": "klarstein",
+        "name": "Klarstein",
+        "slug": "klarstein",
+        "productCategory": "Klarstein",
+        "localThumb": "/assets/images/hersteller/klarstein.webp"
+    },
+    {
+        "key": "justus",
+        "name": "Justus",
+        "slug": "justus",
+        "productCategory": "Justus",
+        "localThumb": "/assets/images/hersteller/justus.webp"
+    },
+    {
+        "key": "panadero",
+        "name": "Panadero",
+        "slug": "panadero",
+        "productCategory": "Panadero",
+        "localThumb": "/assets/images/hersteller/panadero.webp"
+    },
+    {
+        "key": "el fuego",
+        "name": "EL Fuego",
+        "slug": "el-fuego",
+        "productCategory": "EL Fuego",
+        "localThumb": "/assets/images/hersteller/el-fuego.webp"
+    },
+    {
+        "key": "varde ovne",
+        "name": "Varde Ovne",
+        "slug": "varde-ovne",
+        "productCategory": "Varde Ovne",
+        "localThumb": "/assets/images/hersteller/varde-ovne.webp"
+    },
+    {
+        "key": "wamsler",
+        "name": "Wamsler",
+        "slug": "wamsler",
+        "productCategory": "Wamsler",
+        "localThumb": "/assets/images/hersteller/wamsler.webp"
+    },
+    {
+        "key": "kaminoflam",
+        "name": "Kaminoflam",
+        "slug": "kaminoflam",
+        "productCategory": "Kaminoflam",
+        "localThumb": "/assets/images/hersteller/kaminoflam.webp"
+    },
+    {
+        "key": "conforto",
+        "name": "Conforto",
+        "slug": "conforto",
+        "productCategory": "Conforto",
+        "localThumb": "/assets/images/hersteller/conforto.webp"
+    },
+    {
+        "key": "la nordica",
+        "name": "La Nordica",
+        "slug": "la-nordica",
+        "productCategory": "La Nordica",
+        "localThumb": "/assets/images/hersteller/la-nordica.webp"
+    },
+    {
+        "key": "aduro",
+        "name": "Aduro",
+        "slug": "aduro",
+        "productCategory": "Aduro",
+        "localThumb": "/assets/images/hersteller/aduro.webp"
+    },
+    {
+        "key": "green area",
+        "name": "Green Area",
+        "slug": "green-area",
+        "productCategory": "Green Area",
+        "localThumb": "/assets/images/hersteller/green-area.webp"
+    },
+    {
+        "key": "fireplace",
+        "name": "Fireplace",
+        "slug": "fireplace",
+        "productCategory": "Fireplace",
+        "localThumb": "/assets/images/hersteller/fireplace.webp"
+    },
+    {
+        "key": "ackerman",
+        "name": "Ackerman",
+        "slug": "ackerman",
+        "productCategory": "Ackerman",
+        "localThumb": "/assets/images/hersteller/ackerman.webp"
+    },
+    {
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
     },
     {
         "key": "obi",
@@ -35,52 +133,24 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "sparky",
+        "name": "Sparky",
+        "slug": "sparky",
+        "productCategory": "Sparky",
+        "localThumb": "/assets/images/hersteller/sparky.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "flash green",
+        "name": "Flash Green",
+        "slug": "flash-green",
+        "productCategory": "Flash Green",
+        "localThumb": "/assets/images/hersteller/flash-green.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "accente",
+        "name": "Accente",
+        "slug": "accente",
+        "productCategory": "Accente",
+        "localThumb": "/assets/images/hersteller/accente.webp"
     }
 ]
