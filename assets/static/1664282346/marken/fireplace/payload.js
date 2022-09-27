@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/fireplace", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/fireplace-kaminofen-samba-speckstein-verkleidung-gussgrau-6-kw-eek-a-fireplace-9196106-1.jpg":"\u002Fassets\u002Fimages\u002Ffireplace-kaminofen-samba-speckstein-verkleidung-gussgrau-6-kw-eek-a-fireplace-9196106-1.webp"}}],fetch:{},mutations:void 0});

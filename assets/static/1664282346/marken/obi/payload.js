@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/obi", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-rauchrohr-set-o-150-mm-3-teilig-schwarz-obi-7313703-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-rauchrohr-set-o-150-mm-3-teilig-schwarz-obi-7313703-1.webp"}}],fetch:{},mutations:void 0});
