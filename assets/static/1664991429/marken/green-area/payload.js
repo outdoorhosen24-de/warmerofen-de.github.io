@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/green-area", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/green-area-dauerbrand-kaminofen-madera-glas-schwarz-53-kw-eek-a-green-area-4038949-1.jpg":"\u002Fassets\u002Fimages\u002Fgreen-area-dauerbrand-kaminofen-madera-glas-schwarz-53-kw-eek-a-green-area-4038949-1.webp"}}],fetch:{},mutations:void 0});

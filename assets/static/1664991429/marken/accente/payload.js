@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/accente", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/elektrokamin-opatija-sandstein-accente-5731617-1.jpg":"\u002Fassets\u002Fimages\u002Felektrokamin-opatija-sandstein-accente-5731617-1.webp"}}],fetch:{},mutations:void 0});
