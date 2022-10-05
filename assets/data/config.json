@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "warmerofen.de",
+    "hostname": "https://www.warmerofen.de/",
+    "email": "warmerofen.desurrealnetworks.io",
+    "organization": "warmerofen.de",
+    "logoText": "Warmerofen.de",
+    "title": "Kamine & \u00d6fen",
+    "subline": "Der Online Shop f\u00fcr Kamine & \u00d6fen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3925070",
+        "4733556",
+        "3755121",
+        "9196106",
+        "1321462",
+        "4475331"
+    ],
+    "winnerProducts": [
+        "7773443",
+        "8489304",
+        "2283323"
+    ],
+    "featuredCategories": [
+        "Pellet\u00f6fen",
+        "Zubeh\u00f6r f\u00fcr Kamine & \u00d6fen",
+        "Gasheizer",
+        "Gasheizer",
+        "Elektrokamine",
+        "Zubeh\u00f6r f\u00fcr Kamine & \u00d6fen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Kamine & \u00d6fen",
-        "featureText": "Your featured text goes here",
+        "featureText": "Kamine & \u00d6fen ist ein Fachgesch\u00e4ft f\u00fcr Kamine und \u00d6fen. Wir f\u00fchren eine gro\u00dfe Auswahl an Kaminen und \u00d6fen in verschiedenen Ausf\u00fchrungen und Designs. Unsere erfahrenen Mitarbeiter beraten Sie gerne bei der Auswahl des richtigen Kamins oder Ofens f\u00fcr Ihr Zuhause.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Kamine & \u00d6fen - die beste Auswahl in der Stadt!",
+            "metaDescription": "Kamine & \u00d6fen - Hier finden Sie eine gro\u00dfe Auswahl an Kaminen und \u00d6fen. Vom klassischen Kaminofen bis zum modernen Pelletkamin.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Kamine & \u00d6fen: Die besten Heizungen f\u00fcr Ihr Zuhause",
+                    "text": "Kamine und \u00d6fen sind eine tolle M\u00f6glichkeit, Ihr Zuhause gem\u00fctlich und warm zu halten. Es gibt viele verschiedene Arten von Kaminen und \u00d6fen, und es ist wichtig, das richtige f\u00fcr Ihre Bed\u00fcrfnisse auszuw\u00e4hlen. Kamine k\u00f6nnen entweder offen oder geschlossen sein, und es gibt auch verschiedene Arten von Brennstoffen, die Sie verwenden k\u00f6nnen. \u00d6fen sind in der Regel kleiner als Kamine und eignen sich daher besser f\u00fcr kleinere R\u00e4ume. Sie k\u00f6nnen auch verschiedene Arten von Brennstoffen verwenden, um Ihren Bed\u00fcrfnissen gerecht zu werden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Kamine & \u00d6fen Shop",
+            "metaDescription": "Kamine & \u00d6fen Shop - Hier finden Sie eine gro\u00dfe Auswahl an Kaminen und \u00d6fen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Kamine & \u00d6fen Hersteller",
+            "metaDescription": "Kamine & \u00d6fen - Hersteller von hochwertigen Kaminen und \u00d6fen. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Modellen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Kamine & \u00d6fen: $PRODUKT",
+        "defaultMetaDescription": "Kamine & \u00d6fen von $HERSTELLER in $KATEGORIE. Jetzt $PRODUKT online bestellen und von den Vorteilen unserer Preisgarantie profitieren!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Kamine & \u00d6fen: $KATEGORIE f\u00fcr jeden Geschmack",
+        "defaultMetaDescription": "Kamine & \u00d6fen: Finden Sie die richtige $KATEGORIE f\u00fcr Ihr Zuhause bei uns. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Modellen!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Kamine & \u00d6fen von $HERSTELLER \u2013 die beste Auswahl f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Modellen und finden Sie den richtigen Kaminofen f\u00fcr Ihr Zuhause.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Kamine & \u00d6fen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Kamine & \u00d6fen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Kamine & \u00d6fen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
