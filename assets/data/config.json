@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "warmerofen.de",
     "hostname": "https://www.warmerofen.de/",
     "email": "warmerofen.desurrealnetworks.io",
     "organization": "warmerofen.de",
     "logoText": "Warmerofen.de",
-    "title": "Kamine & \u00d6fen",
-    "subline": "Der Online Shop f\u00fcr Kamine & \u00d6fen",
+    "title": "Kamine & Öfen",
+    "subline": "Der Online Shop für Kamine & Öfen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "2283323"
     ],
     "featuredCategories": [
-        "Pellet\u00f6fen",
-        "Zubeh\u00f6r f\u00fcr Kamine & \u00d6fen",
+        "Pelletöfen",
+        "Zubehör für Kamine & Öfen",
         "Gasheizer",
         "Gasheizer",
         "Elektrokamine",
-        "Zubeh\u00f6r f\u00fcr Kamine & \u00d6fen"
+        "Zubehör für Kamine & Öfen"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Kamine & \u00d6fen",
-        "featureText": "Kamine & \u00d6fen ist ein Fachgesch\u00e4ft f\u00fcr Kamine und \u00d6fen. Wir f\u00fchren eine gro\u00dfe Auswahl an Kaminen und \u00d6fen in verschiedenen Ausf\u00fchrungen und Designs. Unsere erfahrenen Mitarbeiter beraten Sie gerne bei der Auswahl des richtigen Kamins oder Ofens f\u00fcr Ihr Zuhause.",
+        "mainKeyword": "Kamine & Öfen",
+        "featureText": "Kamine & Öfen ist ein Fachgeschäft für Kamine und Öfen. Wir führen eine große Auswahl an Kaminen und Öfen in verschiedenen Ausführungen und Designs. Unsere erfahrenen Mitarbeiter beraten Sie gerne bei der Auswahl des richtigen Kamins oder Ofens für Ihr Zuhause.",
         "index": {
-            "title": "Kamine & \u00d6fen - die beste Auswahl in der Stadt!",
-            "metaDescription": "Kamine & \u00d6fen - Hier finden Sie eine gro\u00dfe Auswahl an Kaminen und \u00d6fen. Vom klassischen Kaminofen bis zum modernen Pelletkamin.",
+            "title": "Kamine & Öfen - die beste Auswahl in der Stadt!",
+            "metaDescription": "Kamine & Öfen - Hier finden Sie eine große Auswahl an Kaminen und Öfen. Vom klassischen Kaminofen bis zum modernen Pelletkamin.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Kamine & \u00d6fen: Die besten Heizungen f\u00fcr Ihr Zuhause",
-                    "text": "Kamine und \u00d6fen sind eine tolle M\u00f6glichkeit, Ihr Zuhause gem\u00fctlich und warm zu halten. Es gibt viele verschiedene Arten von Kaminen und \u00d6fen, und es ist wichtig, das richtige f\u00fcr Ihre Bed\u00fcrfnisse auszuw\u00e4hlen. Kamine k\u00f6nnen entweder offen oder geschlossen sein, und es gibt auch verschiedene Arten von Brennstoffen, die Sie verwenden k\u00f6nnen. \u00d6fen sind in der Regel kleiner als Kamine und eignen sich daher besser f\u00fcr kleinere R\u00e4ume. Sie k\u00f6nnen auch verschiedene Arten von Brennstoffen verwenden, um Ihren Bed\u00fcrfnissen gerecht zu werden."
+                    "title": "Kamine & Öfen: Die besten Heizungen für Ihr Zuhause",
+                    "text": "Kamine und Öfen sind eine tolle Möglichkeit, Ihr Zuhause gemütlich und warm zu halten. Es gibt viele verschiedene Arten von Kaminen und Öfen, und es ist wichtig, das richtige für Ihre Bedürfnisse auszuwählen. Kamine können entweder offen oder geschlossen sein, und es gibt auch verschiedene Arten von Brennstoffen, die Sie verwenden können. Öfen sind in der Regel kleiner als Kamine und eignen sich daher besser für kleinere Räume. Sie können auch verschiedene Arten von Brennstoffen verwenden, um Ihren Bedürfnissen gerecht zu werden."
                 }
             ]
         },
         "shop": {
-            "title": "Kamine & \u00d6fen Shop",
-            "metaDescription": "Kamine & \u00d6fen Shop - Hier finden Sie eine gro\u00dfe Auswahl an Kaminen und \u00d6fen.",
+            "title": "Kamine & Öfen Shop",
+            "metaDescription": "Kamine & Öfen Shop - Hier finden Sie eine große Auswahl an Kaminen und Öfen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Kamine & \u00d6fen Hersteller",
-            "metaDescription": "Kamine & \u00d6fen - Hersteller von hochwertigen Kaminen und \u00d6fen. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Modellen.",
+            "title": "Kamine & Öfen Hersteller",
+            "metaDescription": "Kamine & Öfen - Hersteller von hochwertigen Kaminen und Öfen. Wir bieten Ihnen eine große Auswahl an verschiedenen Modellen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Kamine & \u00d6fen: $PRODUKT",
-        "defaultMetaDescription": "Kamine & \u00d6fen von $HERSTELLER in $KATEGORIE. Jetzt $PRODUKT online bestellen und von den Vorteilen unserer Preisgarantie profitieren!",
+        "defaultTitle": "Kamine & Öfen: $PRODUKT",
+        "defaultMetaDescription": "Kamine & Öfen von $HERSTELLER in $KATEGORIE. Jetzt $PRODUKT online bestellen und von den Vorteilen unserer Preisgarantie profitieren!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Kamine & \u00d6fen: $KATEGORIE f\u00fcr jeden Geschmack",
-        "defaultMetaDescription": "Kamine & \u00d6fen: Finden Sie die richtige $KATEGORIE f\u00fcr Ihr Zuhause bei uns. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Modellen!",
+        "defaultTitle": "Kamine & Öfen: $KATEGORIE für jeden Geschmack",
+        "defaultMetaDescription": "Kamine & Öfen: Finden Sie die richtige $KATEGORIE für Ihr Zuhause bei uns. Wir bieten eine große Auswahl an verschiedenen Modellen!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Kamine & \u00d6fen von $HERSTELLER \u2013 die beste Auswahl f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Modellen und finden Sie den richtigen Kaminofen f\u00fcr Ihr Zuhause.",
+        "defaultMetaDescription": "Kamine & Öfen von $HERSTELLER – die beste Auswahl für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Modellen und finden Sie den richtigen Kaminofen für Ihr Zuhause.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Kamine & \u00d6fen",
+            "linkTitle": "Kamine & Öfen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Kamine & \u00d6fen Shop",
+            "linkTitle": "Kamine & Öfen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Kamine & \u00d6fen Marken",
+            "linkTitle": "Kamine & Öfen Marken",
             "publish": true
         },
         {
