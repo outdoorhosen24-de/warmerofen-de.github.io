@@ -51,12 +51,15 @@
             "title": "Kamine & Öfen - die beste Auswahl in der Stadt!",
             "metaDescription": "Kamine & Öfen - Hier finden Sie eine große Auswahl an Kaminen und Öfen. Vom klassischen Kaminofen bis zum modernen Pelletkamin.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Kamine & Öfen: Die besten Heizungen für Ihr Zuhause",
-                    "text": "Kamine und Öfen sind eine tolle Möglichkeit, Ihr Zuhause gemütlich und warm zu halten. Es gibt viele verschiedene Arten von Kaminen und Öfen, und es ist wichtig, das richtige für Ihre Bedürfnisse auszuwählen. Kamine können entweder offen oder geschlossen sein, und es gibt auch verschiedene Arten von Brennstoffen, die Sie verwenden können. Öfen sind in der Regel kleiner als Kamine und eignen sich daher besser für kleinere Räume. Sie können auch verschiedene Arten von Brennstoffen verwenden, um Ihren Bedürfnissen gerecht zu werden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Kamine & Öfen: Die besten Heizungen für Ihr Zuhause",
+                        "text": "Kamine und Öfen sind eine tolle Möglichkeit, Ihr Zuhause gemütlich und warm zu halten. Es gibt viele verschiedene Arten von Kaminen und Öfen, und es ist wichtig, das richtige für Ihre Bedürfnisse auszuwählen. Kamine können entweder offen oder geschlossen sein, und es gibt auch verschiedene Arten von Brennstoffen, die Sie verwenden können. Öfen sind in der Regel kleiner als Kamine und eignen sich daher besser für kleinere Räume. Sie können auch verschiedene Arten von Brennstoffen verwenden, um Ihren Bedürfnissen gerecht zu werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Kamine & Öfen Shop",
