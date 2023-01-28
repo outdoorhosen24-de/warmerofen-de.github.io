@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "warmerofen.de",
     "hostname": "https://www.warmerofen.de/",
     "email": "warmerofen.de@surrealnetworks.io",
     "organization": "warmerofen.de",
     "logoText": "Warmerofen.de",
     "title": "Kamine & Öfen",
-    "subline": "Der Online Shop für Kamine & Öfen",
+    "subline": "Holen Sie sich die Gemütlichkeit nach Hause",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Kamine & Öfen",
-        "featureText": "Kamine & Öfen ist ein Fachgeschäft für Kamine und Öfen. Wir führen eine große Auswahl an Kaminen und Öfen in verschiedenen Ausführungen und Designs. Unsere erfahrenen Mitarbeiter beraten Sie gerne bei der Auswahl des richtigen Kamins oder Ofens für Ihr Zuhause.",
+        "featureText": "Herzlich willkommen in unserem Online-Shop! Bei uns finden Sie eine große Auswahl an verschiedenen Kaminen, Öfen und passendem Zubehör - alles von Kamin-, Pellet- und Dauerbrandöfen über Elektrokamine bis hin zu Gasheizungen und Brennstoffen. Bei uns werden Sie garantiert fündig! Kaufen Sie das passende Produkt einfach und bequem in unserem übersichtlichen Shop.",
         "index": {
-            "title": "Kamine & Öfen - die beste Auswahl in der Stadt!",
-            "metaDescription": "Kamine & Öfen - Hier finden Sie eine große Auswahl an Kaminen und Öfen. Vom klassischen Kaminofen bis zum modernen Pelletkamin.",
+            "title": "Kamine & Öfen - günstig online kaufen",
+            "metaDescription": "Hier finden Sie eine große Auswahl an Kaminen und Öfen. Vom klassischen Kaminofen bis zum modernen Pelletofen sowie passendem Zubehör. | Schnelle Lieferung.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Kamine & Öfen Shop",
-            "metaDescription": "Kamine & Öfen Shop - Hier finden Sie eine große Auswahl an Kaminen und Öfen.",
+            "title": "Ihr Online Shop für Kamine & Öfen",
+            "metaDescription": "Kamine & Öfen bei uns einfach online bestellen. | Einfache Produktsuche. Hochwertige Produkte. Günstige Preise. Schnelle Lieferung. ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Kamine & Öfen Hersteller",
-            "metaDescription": "Kamine & Öfen - Hersteller von hochwertigen Kaminen und Öfen. Wir bieten Ihnen eine große Auswahl an verschiedenen Modellen.",
+            "title": "Die besten Hersteller für Kamine & Öfen | bei uns erhältlich",
+            "metaDescription": "Die besten Markenanbieter von hochwertigen Kaminen und Öfen. Wir bieten Ihnen eine große Auswahl an renommierten Marken wie Rowi, Firefix, Varde, uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Kamine & Öfen: $PRODUKT",
-        "defaultMetaDescription": "Kamine & Öfen von $HERSTELLER in $KATEGORIE. Jetzt $PRODUKT online bestellen und von den Vorteilen unserer Preisgarantie profitieren!",
+        "defaultTitle": "$PRODUKT - eine gute Wahl!",
+        "defaultMetaDescription": "Hochwertige Produkte wie: $PRODUKT | Entdecken Sie weitere Produkte von $HERSTELLER bei uns im Shop | Alles zum Thema $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Kamine & Öfen: $KATEGORIE für jeden Geschmack",
-        "defaultMetaDescription": "Kamine & Öfen: Finden Sie die richtige $KATEGORIE für Ihr Zuhause bei uns. Wir bieten eine große Auswahl an verschiedenen Modellen!",
+        "defaultTitle": "$KATEGORIE - großes Sortiment",
+        "defaultMetaDescription": "Kamine & Öfen | Alles zum Thema $KATEGORIE | Finden Sie weitere tolle Produkte in unserem Shop | $KATEGORIE günstig bestellen | Schnelle Lieferung.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Kamine & Öfen von $HERSTELLER – die beste Auswahl für Ihr Zuhause. Wählen Sie aus unserer großen Auswahl an Modellen und finden Sie den richtigen Kaminofen für Ihr Zuhause.",
+        "defaultTitle": "$HERSTELLER - Qualität zum fairen Preis",
+        "defaultMetaDescription": "Kamine & Öfen von $HERSTELLER – Qualität für Ihr Zuhause. Wählen Sie aus unserem umfangreichen Angebot von $HERSTELLER und finden Sie den richtigen Ofen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
