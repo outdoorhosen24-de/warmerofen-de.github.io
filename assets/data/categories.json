@@ -9,14 +9,14 @@
     {
         "key": "pelletöfen",
         "name": "Pelletöfen",
-        "slug": "pelletofen",
+        "slug": "pelletoefen",
         "productCategory": "Pelletöfen",
         "subCategories": []
     },
     {
         "key": "kaminöfen",
         "name": "Kaminöfen",
-        "slug": "kaminofen",
+        "slug": "kaminoefen",
         "productCategory": "Kaminöfen",
         "subCategories": []
     },
@@ -30,21 +30,21 @@
     {
         "key": "dauerbrandöfen",
         "name": "Dauerbrandöfen",
-        "slug": "dauerbrandofen",
+        "slug": "dauerbrandoefen",
         "productCategory": "Dauerbrandöfen",
         "subCategories": []
     },
     {
         "key": "werkstattöfen",
         "name": "Werkstattöfen",
-        "slug": "werkstattofen",
+        "slug": "werkstattoefen",
         "productCategory": "Werkstattöfen",
         "subCategories": []
     },
     {
         "key": "zubehör für kamine & öfen",
         "name": "Zubehör für Kamine & Öfen",
-        "slug": "zubehor-fur-kamine-ofen",
+        "slug": "zubehoer-fuer-kamine-oefen",
         "productCategory": "Zubehör für Kamine & Öfen",
         "subCategories": []
     },
