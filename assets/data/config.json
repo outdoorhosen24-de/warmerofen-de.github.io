@@ -1,196 +1,199 @@
 {
-    "configIsReady": true,
-    "domain": "warmerofen.de",
-    "hostname": "https://www.warmerofen.de/",
-    "email": "warmerofen.de@surrealnetworks.io",
-    "organization": "warmerofen.de",
-    "logoText": "Warmerofen.de",
-    "title": "Kamine & Öfen",
-    "subline": "Holen Sie sich die Gemütlichkeit nach Hause",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "3925070",
-        "4733556",
-        "3755121",
-        "9196106",
-        "1321462",
-        "4475331"
-    ],
-    "winnerProducts": [
-        "7773443",
-        "8489304",
-        "2283323"
-    ],
-    "featuredCategories": [
-        "Pelletöfen",
-        "Zubehör für Kamine & Öfen",
-        "Gasheizer",
-        "Gasheizer",
-        "Elektrokamine",
-        "Zubehör für Kamine & Öfen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Kamine & Öfen",
-        "featureText": "Herzlich willkommen in unserem Online-Shop! Bei uns finden Sie eine große Auswahl an verschiedenen Kaminen, Öfen und passendem Zubehör - alles von Kamin-, Pellet- und Dauerbrandöfen über Elektrokamine bis hin zu Gasheizungen und Brennstoffen. Bei uns werden Sie garantiert fündig! Kaufen Sie das passende Produkt einfach und bequem in unserem übersichtlichen Shop.",
-        "index": {
-            "title": "Kamine & Öfen - günstig online kaufen",
-            "metaDescription": "Hier finden Sie eine große Auswahl an Kaminen und Öfen. Vom klassischen Kaminofen bis zum modernen Pelletofen sowie passendem Zubehör. | Schnelle Lieferung.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Warmerofen.de - Ihrem Online-Shop für Kamine & Öfen",
-                        "text": "Herzlich willkommen bei Warmerofen.de! Wir sind Ihr Online-Shop für alles rund um Kamine & Öfen. Von Brennstoffen über Pelletöfen bis hin zu Elektrokaminen, Dauerbrandöfen, Werkstattöfen und Zubehör - bei uns finden Sie alles, was Sie für eine wohlig warme Atmosphäre in Ihren vier Wänden benötigen. Unser Sortiment bietet Ihnen eine große Auswahl an hochwertigen Produkten zu günstigen Preisen. Überzeugen Sie sich selbst und entdecken Sie jetzt unser Angebot! "
-                    },
-                    {
-                        "title": "Brennstoffe für Kamine & Öfen",
-                        "text": "In unserer Kategorie Brennstoffe finden Sie alles, was Sie benötigen, um Ihren Ofen oder Kamin mit dem passenden Brennstoff zu betreiben. Wir bieten eine große Auswahl an Brennstoffen, darunter Holzpellets, Holzbriketts und Scheitholz. Alle Brennstoffe sind sorgfältig ausgewählt und entsprechen höchsten Qualitätsstandards. So können Sie sicher sein, dass Sie immer ein angenehmes Feuer genießen werden."
-                    },
-                    {
-                        "title": "Pelletöfen für behagliche Wärme",
-                        "text": "In unserer Kategorie Pelletöfen finden Sie eine große Auswahl an hochwertigen Öfen, die mit Holzpellets betrieben werden. Pelletöfen sind eine umweltfreundliche und kosteneffiziente Alternative zu herkömmlichen Heizsystemen und bieten eine behagliche Wärme für Ihr Zuhause. Stöbern Sie durch unser Angebot und finden Sie den perfekten Ofen für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Kaminöfen für gemütliche Abende",
-                        "text": "Unsere Kaminöfen sind eine wunderbare Ergänzung für jedes Zuhause. Sie bieten nicht nur Wärme, sondern auch eine gemütliche Atmosphäre für kalte Winterabende. In unserer Kategorie Kaminöfen finden Sie eine breite Auswahl an verschiedenen Modellen, von traditionellen Kaminen bis hin zu modernen Designs. Jeder Kaminofen wurde sorgfältig ausgewählt und entspricht höchsten Qualitätsstandards."
-                    },
-                    {
-                        "title": "Elektrokamine bei Warmerofen.de",
-                        "text": "Erleben Sie das Flammenspiel eines echten Kamins ohne den Aufwand einer Holzbeschaffung. Bei Warmerofen.de finden Sie eine große Auswahl an Elektrokaminen, die einfach zu installieren sind und für eine angenehme Wärme sorgen. Alle unsere Elektrokamine sind sicher und energiesparend. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Elektrokamin für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Dauerbrandöfen bei Warmerofen.de",
-                        "text": "Ein Dauerbrandofen ist die perfekte Lösung, wenn Sie eine kontinuierliche Wärmequelle benötigen. Bei Warmerofen.de finden Sie eine große Auswahl an Dauerbrandöfen in verschiedenen Größen und Designs. Alle unsere Öfen sind hochwertig verarbeitet und bieten eine effiziente und sichere Wärmequelle für Ihr Zuhause. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Dauerbrandofen für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Werkstattöfen bei Warmerofen.de",
-                        "text": "Ein Werkstattofen ist eine praktische Lösung, um Ihre Werkstatt oder Garage zu beheizen. Bei Warmerofen.de finden Sie eine große Auswahl an Werkstattöfen in verschiedenen Größen und Designs. Alle unsere Öfen sind hochwertig verarbeitet und bieten eine effiziente und sichere Wärmequelle für Ihre Werkstatt. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Werkstattofen für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Zubehör für Kamine & Öfen",
-                        "text": "Erweitern Sie die Funktionalität Ihrer Kamine & Öfen mit dem richtigen Zubehör. Bei uns finden Sie eine große Auswahl an Zubehörteilen wie Ascheschubladen, Feuerstahl und Zündhölzer. Stöbern Sie jetzt durch unser Sortiment und finden Sie das perfekte Zubehör für Ihren Kamin oder Ofen."
-                    },
-                    {
-                        "title": "Gasheizer",
-                        "text": "Bringen Sie Wärme in jeden Raum Ihres Zuhauses mit unseren <a href=\"/kategorie/gasheizer/\" title=\"Gasheizer\">Gasheizer</a>n. Wir bieten eine große Auswahl an tragbaren und stationären Gasheizern in verschiedenen Größen und Leistungen. Egal ob Sie einen kleinen Raum oder eine große Halle beheizen möchten, wir haben den passenden Gasheizer für Sie."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Ihr Online Shop für Kamine & Öfen",
-            "metaDescription": "Kamine & Öfen bei uns einfach online bestellen. | Einfache Produktsuche. Hochwertige Produkte. Günstige Preise. Schnelle Lieferung. ",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Die besten Hersteller für Kamine & Öfen | bei uns erhältlich",
-            "metaDescription": "Die besten Markenanbieter von hochwertigen Kaminen und Öfen. Wir bieten Ihnen eine große Auswahl an renommierten Marken wie Rowi, Firefix, Varde, uvm.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - eine gute Wahl!",
-        "defaultMetaDescription": "Hochwertige Produkte wie: $PRODUKT | Entdecken Sie weitere Produkte von $HERSTELLER bei uns im Shop | Alles zum Thema $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "warmerofen.de",
+  "hostname": "https://www.warmerofen.de/",
+  "email": "warmerofen.de@surrealnetworks.io",
+  "organization": "warmerofen.de",
+  "logoText": "Warmerofen.de",
+  "title": "Kamine & \u00d6fen",
+  "subline": "Holen Sie sich die Gem\u00fctlichkeit nach Hause",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "3925070",
+    "4733556",
+    "3755121",
+    "9196106",
+    "1321462",
+    "4475331"
+  ],
+  "winnerProducts": [
+    "7773443",
+    "8489304",
+    "2283323"
+  ],
+  "featuredCategories": [
+    "Pellet\u00f6fen",
+    "Zubeh\u00f6r f\u00fcr Kamine & \u00d6fen",
+    "Gasheizer",
+    "Gasheizer",
+    "Elektrokamine",
+    "Zubeh\u00f6r f\u00fcr Kamine & \u00d6fen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Kamine & \u00d6fen",
+    "featureText": "Herzlich willkommen in unserem Online-Shop! Bei uns finden Sie eine gro\u00dfe Auswahl an verschiedenen Kaminen, \u00d6fen und passendem Zubeh\u00f6r - alles von Kamin-, Pellet- und Dauerbrand\u00f6fen \u00fcber Elektrokamine bis hin zu Gasheizungen und Brennstoffen. Bei uns werden Sie garantiert f\u00fcndig! Kaufen Sie das passende Produkt einfach und bequem in unserem \u00fcbersichtlichen Shop.",
+    "index": {
+      "title": "Kamine & \u00d6fen - g\u00fcnstig online kaufen",
+      "metaDescription": "Hier finden Sie eine gro\u00dfe Auswahl an Kaminen und \u00d6fen. Vom klassischen Kaminofen bis zum modernen Pelletofen sowie passendem Zubeh\u00f6r. | Schnelle Lieferung.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Warmerofen.de - Ihrem Online-Shop f\u00fcr Kamine & \u00d6fen",
+            "text": "Herzlich willkommen bei Warmerofen.de! Wir sind Ihr Online-Shop f\u00fcr alles rund um Kamine & \u00d6fen. Von Brennstoffen \u00fcber Pellet\u00f6fen bis hin zu Elektrokaminen, Dauerbrand\u00f6fen, Werkstatt\u00f6fen und Zubeh\u00f6r - bei uns finden Sie alles, was Sie f\u00fcr eine wohlig warme Atmosph\u00e4re in Ihren vier W\u00e4nden ben\u00f6tigen. Unser Sortiment bietet Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu g\u00fcnstigen Preisen. \u00dcberzeugen Sie sich selbst und entdecken Sie jetzt unser Angebot! "
+          },
+          {
+            "title": "Brennstoffe f\u00fcr Kamine & \u00d6fen",
+            "text": "In unserer Kategorie Brennstoffe finden Sie alles, was Sie ben\u00f6tigen, um Ihren Ofen oder Kamin mit dem passenden Brennstoff zu betreiben. Wir bieten eine gro\u00dfe Auswahl an Brennstoffen, darunter Holzpellets, Holzbriketts und Scheitholz. Alle Brennstoffe sind sorgf\u00e4ltig ausgew\u00e4hlt und entsprechen h\u00f6chsten Qualit\u00e4tsstandards. So k\u00f6nnen Sie sicher sein, dass Sie immer ein angenehmes Feuer genie\u00dfen werden."
+          },
+          {
+            "title": "Pellet\u00f6fen f\u00fcr behagliche W\u00e4rme",
+            "text": "In unserer Kategorie Pellet\u00f6fen finden Sie eine gro\u00dfe Auswahl an hochwertigen \u00d6fen, die mit Holzpellets betrieben werden. Pellet\u00f6fen sind eine umweltfreundliche und kosteneffiziente Alternative zu herk\u00f6mmlichen Heizsystemen und bieten eine behagliche W\u00e4rme f\u00fcr Ihr Zuhause. St\u00f6bern Sie durch unser Angebot und finden Sie den perfekten Ofen f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Kamin\u00f6fen f\u00fcr gem\u00fctliche Abende",
+            "text": "Unsere Kamin\u00f6fen sind eine wunderbare Erg\u00e4nzung f\u00fcr jedes Zuhause. Sie bieten nicht nur W\u00e4rme, sondern auch eine gem\u00fctliche Atmosph\u00e4re f\u00fcr kalte Winterabende. In unserer Kategorie Kamin\u00f6fen finden Sie eine breite Auswahl an verschiedenen Modellen, von traditionellen Kaminen bis hin zu modernen Designs. Jeder Kaminofen wurde sorgf\u00e4ltig ausgew\u00e4hlt und entspricht h\u00f6chsten Qualit\u00e4tsstandards."
+          },
+          {
+            "title": "Elektrokamine bei Warmerofen.de",
+            "text": "Erleben Sie das Flammenspiel eines echten Kamins ohne den Aufwand einer Holzbeschaffung. Bei Warmerofen.de finden Sie eine gro\u00dfe Auswahl an Elektrokaminen, die einfach zu installieren sind und f\u00fcr eine angenehme W\u00e4rme sorgen. Alle unsere Elektrokamine sind sicher und energiesparend. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie den perfekten Elektrokamin f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Dauerbrand\u00f6fen bei Warmerofen.de",
+            "text": "Ein Dauerbrandofen ist die perfekte L\u00f6sung, wenn Sie eine kontinuierliche W\u00e4rmequelle ben\u00f6tigen. Bei Warmerofen.de finden Sie eine gro\u00dfe Auswahl an Dauerbrand\u00f6fen in verschiedenen Gr\u00f6\u00dfen und Designs. Alle unsere \u00d6fen sind hochwertig verarbeitet und bieten eine effiziente und sichere W\u00e4rmequelle f\u00fcr Ihr Zuhause. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie den perfekten Dauerbrandofen f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Werkstatt\u00f6fen bei Warmerofen.de",
+            "text": "Ein Werkstattofen ist eine praktische L\u00f6sung, um Ihre Werkstatt oder Garage zu beheizen. Bei Warmerofen.de finden Sie eine gro\u00dfe Auswahl an Werkstatt\u00f6fen in verschiedenen Gr\u00f6\u00dfen und Designs. Alle unsere \u00d6fen sind hochwertig verarbeitet und bieten eine effiziente und sichere W\u00e4rmequelle f\u00fcr Ihre Werkstatt. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie den perfekten Werkstattofen f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Kamine & \u00d6fen",
+            "text": "Erweitern Sie die Funktionalit\u00e4t Ihrer Kamine & \u00d6fen mit dem richtigen Zubeh\u00f6r. Bei uns finden Sie eine gro\u00dfe Auswahl an Zubeh\u00f6rteilen wie Ascheschubladen, Feuerstahl und Z\u00fcndh\u00f6lzer. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das perfekte Zubeh\u00f6r f\u00fcr Ihren Kamin oder Ofen."
+          },
+          {
+            "title": "Gasheizer",
+            "text": "Bringen Sie W\u00e4rme in jeden Raum Ihres Zuhauses mit unseren <a href=\"/kategorie/gasheizer/\" title=\"Gasheizer\">Gasheizer</a>n. Wir bieten eine gro\u00dfe Auswahl an tragbaren und station\u00e4ren Gasheizern in verschiedenen Gr\u00f6\u00dfen und Leistungen. Egal ob Sie einen kleinen Raum oder eine gro\u00dfe Halle beheizen m\u00f6chten, wir haben den passenden Gasheizer f\u00fcr Sie."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE - großes Sortiment",
-        "defaultMetaDescription": "Kamine & Öfen | Alles zum Thema $KATEGORIE | Finden Sie weitere tolle Produkte in unserem Shop | $KATEGORIE günstig bestellen | Schnelle Lieferung.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Ihr Online Shop f\u00fcr Kamine & \u00d6fen",
+      "metaDescription": "Kamine & \u00d6fen bei uns einfach online bestellen. | Einfache Produktsuche. Hochwertige Produkte. G\u00fcnstige Preise. Schnelle Lieferung. ",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Qualität zum fairen Preis",
-        "defaultMetaDescription": "Kamine & Öfen von $HERSTELLER – Qualität für Ihr Zuhause. Wählen Sie aus unserem umfangreichen Angebot von $HERSTELLER und finden Sie den richtigen Ofen!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Kamine & Öfen",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Kamine & Öfen Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Kamine & Öfen Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Die besten Hersteller f\u00fcr Kamine & \u00d6fen | bei uns erh\u00e4ltlich",
+      "metaDescription": "Die besten Markenanbieter von hochwertigen Kaminen und \u00d6fen. Wir bieten Ihnen eine gro\u00dfe Auswahl an renommierten Marken wie Rowi, Firefix, Varde, uvm.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - eine gute Wahl!",
+    "defaultMetaDescription": "Hochwertige Produkte wie: $PRODUKT | Entdecken Sie weitere Produkte von $HERSTELLER bei uns im Shop | Alles zum Thema $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE - gro\u00dfes Sortiment",
+    "defaultMetaDescription": "Kamine & \u00d6fen | Alles zum Thema $KATEGORIE | Finden Sie weitere tolle Produkte in unserem Shop | $KATEGORIE g\u00fcnstig bestellen | Schnelle Lieferung.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Qualit\u00e4t zum fairen Preis",
+    "defaultMetaDescription": "Kamine & \u00d6fen von $HERSTELLER \u2013 Qualit\u00e4t f\u00fcr Ihr Zuhause. W\u00e4hlen Sie aus unserem umfangreichen Angebot von $HERSTELLER und finden Sie den richtigen Ofen!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Kamine & \u00d6fen",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Kamine & \u00d6fen Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Kamine & \u00d6fen Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
